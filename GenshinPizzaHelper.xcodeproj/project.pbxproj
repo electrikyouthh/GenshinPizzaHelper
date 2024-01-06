@@ -994,6 +994,7 @@
 		BFE4258728A0AE2700FEFA49 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		BFE7AFE32909533700C75E7F /* PSAServerAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PSAServerAPI.swift; sourceTree = "<group>"; };
 		BFE9DADF29A33C3C00C0A1DD /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/AccountIntents.strings; sourceTree = "<group>"; };
+		BFF363D72B48DF7300B1EA53 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = file.intentdefinition; name = "pt-BR"; path = "pt-BR.lproj/AccountIntents.intentdefinition"; sourceTree = "<group>"; };
 		BFF683EE2A374E16005470EA /* icon.ophelper.old.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.ophelper.old.png; sourceTree = "<group>"; };
 		BFF683EF2A374E16005470EA /* icon.ophelper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.ophelper.png; sourceTree = "<group>"; };
 		BFF684082A3753C8005470EA /* Icon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icon.swift; sourceTree = "<group>"; };
@@ -2278,6 +2279,7 @@
 				fil,
 				it,
 				ko,
+				"pt-BR",
 			);
 			mainGroup = EABD7DAD2886B2D200B7F0FD;
 			packageReferences = (
@@ -3212,6 +3214,7 @@
 				BFFEF6F329E82FB00002E111 /* fil */,
 				BFFEF6F829E830300002E111 /* it */,
 				5B5F82AE2ACC57F5005983AC /* ko */,
+				BFF363D72B48DF7300B1EA53 /* pt-BR */,
 			);
 			name = AccountIntents.intentdefinition;
 			sourceTree = "<group>";

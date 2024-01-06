@@ -40,6 +40,12 @@
             "value" : "Pizza Helper for Genshin"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pizza Helper"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
