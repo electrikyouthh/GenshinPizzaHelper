@@ -607,5 +607,125 @@
 	},
 	"210207": {
 		"icon": "UI_NameCardPic_RedandWhite2_P"
+	},
+	"210208": {
+		"icon": "UI_NameCardPic_Kinich_P"
+	},
+	"210209": {
+		"icon": "UI_NameCardPic_Mualani_P"
+	},
+	"210210": {
+		"icon": "UI_NameCardPic_Kachina_P"
+	},
+	"210211": {
+		"icon": "UI_NameCardPic_NatlanSW1_P"
+	},
+	"210212": {
+		"icon": "UI_NameCardPic_NatlanSW2_P"
+	},
+	"210213": {
+		"icon": "UI_NameCardPic_Ysxf5_P"
+	},
+	"210214": {
+		"icon": "UI_NameCardPic_RoleCombat2_P"
+	},
+	"210215": {
+		"icon": "UI_NameCardPic_Natlan1_P"
+	},
+	"210216": {
+		"icon": "UI_NameCardPic_Dfcq1_P"
+	},
+	"210217": {
+		"icon": "UI_NameCardPic_Bp35_P"
+	},
+	"210218": {
+		"icon": "UI_NameCardPic_Yellow_P"
+	},
+	"210219": {
+		"icon": "UI_NameCardPic_Xilonen_P"
+	},
+	"210220": {
+		"icon": "UI_NameCardPic_Bp36_P"
+	},
+	"210221": {
+		"icon": "UI_NameCardPic_Chasca_P"
+	},
+	"210222": {
+		"icon": "UI_NameCardPic_Olorun_P"
+	},
+	"210223": {
+		"icon": "UI_NameCardPic_Natlan2_P"
+	},
+	"210224": {
+		"icon": "UI_NameCardPic_Dfcq2_P"
+	},
+	"210225": {
+		"icon": "UI_NameCardPic_Bp37_P"
+	},
+	"210226": {
+		"icon": "UI_NameCardPic_Mavuika_P"
+	},
+	"210227": {
+		"icon": "UI_NameCardPic_Citlali_P"
+	},
+	"210228": {
+		"icon": "UI_NameCardPic_Lanyan_P"
+	},
+	"210229": {
+		"icon": "UI_NameCardPic_Csxy5_P"
+	},
+	"210230": {
+		"icon": "UI_NameCardPic_Tzz10_P"
+	},
+	"210231": {
+		"icon": "UI_NameCardPic_MusicGame01_P"
+	},
+	"210232": {
+		"icon": "UI_NameCardPic_Bp38_P"
+	},
+	"210233": {
+		"icon": "UI_NameCardPic_Mizuki_P"
+	},
+	"210234": {
+		"icon": "UI_NameCardPic_TowerChallenge_P"
+	},
+	"210235": {
+		"icon": "UI_NameCardPic_Bp39_P"
+	},
+	"210236": {
+		"icon": "UI_NameCardPic_Varesa_P"
+	},
+	"210237": {
+		"icon": "UI_NameCardPic_Iansan_P"
+	},
+	"210238": {
+		"icon": "UI_NameCardPic_Natlan3_P"
+	},
+	"210239": {
+		"icon": "UI_NameCardPic_Dfcq3_P"
+	},
+	"210240": {
+		"icon": "UI_NameCardPic_Bp40_P"
+	},
+	"210241": {
+		"icon": "UI_NameCardPic_Escoffier_P"
+	},
+	"210242": {
+		"icon": "UI_NameCardPic_Ifa_P"
+	},
+	"210243": {
+		"icon": "UI_NameCardPic_Bp41_P"
+	},
+	"210244": {
+		"icon": "UI_NameCardPic_SkirkNew_P"
+	},
+	"210245": {
+		"icon": "UI_NameCardPic_Dahlia_P"
+	},
+	"210246": {
+		"icon": "UI_NameCardPic_RedandWhite3_P"
+	},
+	"210247": {
+		"icon": "UI_NameCardPic_Bp42_P"
 	}
 }
